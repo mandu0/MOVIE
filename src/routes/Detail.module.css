@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.main_container{
+    width: 85vw;
+    display: flex;
+    margin-top: 50px;
+}
+.main_img img{
+    width: 25vw;
+}
+.content_container{
+    margin-left: 20px;
+    color: rgb(224, 224, 224);
+}
+.content_container h1{
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.summary_container{
+    font-size: 1.2rem;
+    border: 0.5px solid rgb(231, 231, 231);
+    border-radius: 0.3em;
+    padding: 20px;margin-bottom: 40px;
+
+}
+.genres {
+    display: flex;
+}
+.genres li{
+    margin-right: 5px;
+    background-color: rgb(211, 211, 211);
+    color: rgb(37, 37, 37);
+    padding: 5px;
+    border-radius: 0.8em;
+    margin-bottom: 20px;
+}

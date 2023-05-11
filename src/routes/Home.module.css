@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #1e1e1e;
+}
+
+.container{
+    width: 85vw;
+    height: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main_name{
+    width: 100vw;
+    height: 10vh;
+    font-size: 3rem;
+    background-color: #282828;
+    color: rgb(180, 180, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}

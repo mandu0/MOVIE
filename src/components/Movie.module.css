@@ -1,0 +1,45 @@
+.main_container{
+    width: 20vw;
+    height: auto;
+}
+.main{
+    font-size: 1.5rem;
+    margin-top: 10px;
+    text-align: center;
+}
+.main a:hover { 
+    color: rgb(221, 240, 156);
+    transition: 1s;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(220, 220, 220);
+}
+.main_img{
+    width: 20vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.content{
+    color: rgb(152, 152, 152);
+    text-align: center;
+    font-size: 0.8rem;
+    word-wrap: break-word;
+}
+.genres{
+    display: flex;
+    justify-content: center;
+    color: rgb(197, 197, 197);
+    margin-top: 5px;
+    font-size: 0.8rem;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.genres_li{
+}
